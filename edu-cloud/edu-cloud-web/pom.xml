@@ -8,12 +8,15 @@
 		<artifactId>edu-cloud</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
+
 	<groupId>com.edu.cloud</groupId>
 	<artifactId>edu-cloud-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
+
 	<name>edu-cloud-web Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -21,15 +24,8 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		
-		<!-- 配置模块部分 -->
-		<dependency>
-			<groupId>com.edu.cloud</groupId>
-			<artifactId>edu-cloud-common</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<type>war</type>
-		</dependency>
 
+		<!-- 配置模块部分 -->
 		<dependency>
 			<groupId>com.edu.cloud</groupId>
 			<artifactId>edu-cloud-exam</artifactId>
@@ -48,10 +44,6 @@
 				<configuration>
 					<overlays>
 						<!-- 手动配置部分，加入项目Maven Module -->
-						<overlay>
-							<groupId>com.edu.cloud</groupId>
-							<artifactId>edu-cloud-common</artifactId>
-						</overlay>
 						<overlay>
 							<groupId>com.edu.cloud</groupId>
 							<artifactId>edu-cloud-exam</artifactId>
