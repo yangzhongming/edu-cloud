@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="edu-cloud-service-api" />
-        <module name="edu-cloud-common" />
         <module name="edu-cloud-utils" />
+        <module name="edu-cloud-model" />
         <module name="edu-cloud-manage-cms" />
       </profile>
     </annotationProcessing>

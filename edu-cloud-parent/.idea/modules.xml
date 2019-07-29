@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../edu-cloud-common/edu-cloud-common.iml" filepath="$PROJECT_DIR$/../edu-cloud-common/edu-cloud-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/../edu-cloud-manage-cms/edu-cloud-manage-cms.iml" filepath="$PROJECT_DIR$/../edu-cloud-manage-cms/edu-cloud-manage-cms.iml" />
       <module fileurl="file://$PROJECT_DIR$/../edu-cloud-model/edu-cloud-model.iml" filepath="$PROJECT_DIR$/../edu-cloud-model/edu-cloud-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/edu-cloud-parent.iml" filepath="$PROJECT_DIR$/edu-cloud-parent.iml" />

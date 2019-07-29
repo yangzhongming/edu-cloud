@@ -10,9 +10,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.com.cloud.edu</groupId>
     <artifactId>edu-cloud-service-api</artifactId>
-    <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>cn.com.cloud.edu</groupId>
+            <artifactId>edu-cloud-model</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
