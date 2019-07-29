@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../edu-cloud-common/edu-cloud-common.iml" filepath="$PROJECT_DIR$/../edu-cloud-common/edu-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../edu-cloud-manage-cms/edu-cloud-manage-cms.iml" filepath="$PROJECT_DIR$/../edu-cloud-manage-cms/edu-cloud-manage-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../edu-cloud-model/edu-cloud-model.iml" filepath="$PROJECT_DIR$/../edu-cloud-model/edu-cloud-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-cloud-parent.iml" filepath="$PROJECT_DIR$/edu-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../edu-cloud-service-api/edu-cloud-service-api.iml" filepath="$PROJECT_DIR$/../edu-cloud-service-api/edu-cloud-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../edu-cloud-utils/edu-cloud-utils.iml" filepath="$PROJECT_DIR$/../edu-cloud-utils/edu-cloud-utils.iml" />
+    </modules>
+  </component>
+</project>
