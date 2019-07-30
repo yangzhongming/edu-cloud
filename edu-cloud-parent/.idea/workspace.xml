@@ -16,66 +16,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/java/cn/com/cloud/edu/manage/cms/controller/CmsPageController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/edu/parent/manage/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../edu-cloud-model/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../edu-cloud-service-api/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../edu-cloud-service-api/src/main/java/cn/com/cloud/edu/api/cms/CmsPageControllerApi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="193">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,21 +35,95 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/java/cn/com/cloud/edu/manage/cms/ManageCmsApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state relative-caret-position="190">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/QueryResponseResult.java">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/resources/logback-spring.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="-768" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/CommonCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-38">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/CmsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/CmsPageParam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-model/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/QueryResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,14 +142,32 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cn/edu/parent/manage/App.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/request/QueryPageRequest.java" />
-        <option value="$PROJECT_DIR$/../edu-cloud-model/pom.xml" />
-        <option value="$PROJECT_DIR$/../edu-cloud-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/request/QueryPageRequest.java" />
         <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/response/QueryPageRequest.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/request/QueryPageRequest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/model/request/RequestData.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/Response.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/ResultCode.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/CommonCode.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/QueryResult.java" />
         <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/QueryResponseResult.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/model/reponse/ResultCode.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/model/reponse/Response.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/model/reponse/QueryResponseResult.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/model/reponse/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/model/reponse/CommonCode.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/model/reponse/QueryResult.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-service-api/pom.xml" />
         <option value="$PROJECT_DIR$/../edu-cloud-service-api/src/main/java/cn/com/cloud/edu/api/cms/CmsPageControllerApi.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/pom.xml" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/common/model/cms/CmsPageParam.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/common/model/cms/CmsPage.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/java/cn/com/cloud/edu/manage/cms/controller/CmsPageController.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/CommonCode.java" />
+        <option value="$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../edu-cloud-manage-cms/pom.xml" />
         <option value="$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/java/cn/com/cloud/edu/manage/cms/ManageCmsApplication.java" />
       </list>
     </option>
@@ -139,8 +180,13 @@
         <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1346" />
@@ -151,14 +197,97 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="reponse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="request" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="edu-cloud-manage-cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -182,6 +311,36 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-service-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edu-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edu-cloud-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -189,21 +348,28 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../edu-cloud-model/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.com.cloud.edu.api.cms" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Intellj_workspace\edu-cloud\edu-cloud-manage-cms\src\main\resources" />
+      <recent name="D:\Intellj_workspace\edu-cloud\edu-cloud-common\src\main\java\cn\com\cloud\edu\model\reponse" />
       <recent name="D:\Intellj_workspace\edu-cloud\edu-cloud-model\src\main\java" />
     </key>
   </component>
@@ -263,63 +429,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564376652950</updated>
-      <workItem from="1564376657684" duration="9877000" />
+      <workItem from="1564376657684" duration="17267000" />
+      <workItem from="1564462235951" duration="6634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9877000" />
+    <option name="totallyTimeSpent" value="23901000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2934947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37908497" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6603631" visible="true" weight="0.44607842" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.33963692" side_tool="true" weight="0.3627451" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49848714" weight="0.3251634" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/edu/parent/manage/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -332,81 +492,180 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/request/QueryResponseResult.java" />
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/response/QueryPageRequest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/request/QueryPageRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="194">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-utils/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/request/QueryResponseResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/ResultCode.java" />
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/Response.java" />
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/QueryResult.java" />
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/ResponseResult.java" />
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/QueryResponseResult.java" />
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/CommonCode.java" />
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/request/RequestData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="29" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-service-api/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/QueryResponseResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="228">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/Response.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/response/QueryPageRequest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/response/QueryResponseResult.java">
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/ResponseResult.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../edu-cloud-service-api/src/main/java/cn/com/cloud/edu/api/cms/CmsPageControllerApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="190">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/java/cn/com/cloud/edu/manage/cms/ManageCmsApplication.java">
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/ResultCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/QueryResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/CmsPageParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-model/src/main/java/cn/com/cloud/edu/model/cms/CmsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/java/cn/com/cloud/edu/manage/cms/controller/CmsPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-common/src/main/java/cn/com/cloud/edu/common/model/reponse/CommonCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-768" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../edu-cloud-manage-cms/src/main/java/cn/com/cloud/edu/manage/cms/ManageCmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
           </folding>
         </state>
       </provider>

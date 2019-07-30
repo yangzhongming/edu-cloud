@@ -1,7 +1,7 @@
 package cn.com.cloud.edu.api.cms;
 
 import cn.com.cloud.edu.model.cms.request.QueryPageRequest;
-import cn.com.cloud.edu.model.cms.response.QueryResponseResult;
+import cn.com.cloud.edu.common.model.reponse.QueryResponseResult;
 
 /**
  * @author:Alex

@@ -1,6 +1,6 @@
 package cn.com.cloud.edu.model.cms.request;
 
-import io.swagger.annotations.ApiModel;
+import cn.com.cloud.edu.common.model.request.RequestData;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
@@ -11,7 +11,7 @@ import lombok.Data;
  * @description: 接收页面查询的查询条件
  */
 @Data
-public class QueryPageRequest {
+public class QueryPageRequest extends RequestData {
 
    @ApiModelProperty("站点ID")
     private String siteId;
