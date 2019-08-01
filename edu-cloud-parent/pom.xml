@@ -18,6 +18,11 @@
     <groupId>cn.com.cloud.edu</groupId>
     <artifactId>edu-cloud-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <springfox-swagger.version>2.7.0</springfox-swagger.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -32,6 +37,18 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger2</artifactId>
+            <version>${springfox-swagger.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>io.springfox</groupId>
+            <artifactId>springfox-swagger-ui</artifactId>
+            <version>${springfox-swagger.version}</version>
+        </dependency>
+
     </dependencies>
 
     <build>

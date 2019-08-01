@@ -14,7 +14,7 @@ import org.springframework.context.annotation.ComponentScan;
  */
 @SpringBootApplication
 @EntityScan("cn.com.cloud.edu.common.model")
-@ComponentScan(basePackages= {"cn.com.cloud.edu.api.cms"})
+@ComponentScan(basePackages= {"cn.com.cloud.edu.service.api.cms"})
 @ComponentScan(basePackages= {"cn.com.cloud.edu.manage.cms"})
 public class ManageCmsApplication {
     public static void main(String[] args) {
